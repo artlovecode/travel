@@ -1,0 +1,786 @@
+[
+  {
+    "iso": "AD",
+    "name": "Andorra"
+  },
+  {
+    "iso": "AF",
+    "name": "Afghanistan"
+  },
+  {
+    "iso": "AI",
+    "name": "Anguilla"
+  },
+  {
+    "iso": "AL",
+    "name": "Albania"
+  },
+  {
+    "iso": "AM",
+    "name": "Armenia"
+  },
+  {
+    "iso": "AO",
+    "name": "Angola"
+  },
+  {
+    "iso": "AR",
+    "name": "Argentina"
+  },
+  {
+    "iso": "AT",
+    "name": "Austria"
+  },
+  {
+    "iso": "AU",
+    "name": "Australia"
+  },
+  {
+    "iso": "AW",
+    "name": "Aruba"
+  },
+  {
+    "iso": "AZ",
+    "name": "Azerbaijan"
+  },
+  {
+    "iso": "BB",
+    "name": "Barbados"
+  },
+  {
+    "iso": "BD",
+    "name": "Bangladesh"
+  },
+  {
+    "iso": "BE",
+    "name": "Belgium"
+  },
+  {
+    "iso": "BF",
+    "name": "BurkinaFaso"
+  },
+  {
+    "iso": "BG",
+    "name": "Bulgaria"
+  },
+  {
+    "iso": "BH",
+    "name": "Bahrain"
+  },
+  {
+    "iso": "BI",
+    "name": "Burundi"
+  },
+  {
+    "iso": "BJ",
+    "name": "Benin"
+  },
+  {
+    "iso": "BM",
+    "name": "Bermuda"
+  },
+  {
+    "iso": "BN",
+    "name": "Brunei"
+  },
+  {
+    "iso": "BO",
+    "name": "Bolivia"
+  },
+  {
+    "iso": "BR",
+    "name": "Brazil"
+  },
+  {
+    "iso": "BS",
+    "name": "Bahamas"
+  },
+  {
+    "iso": "BT",
+    "name": "Bhutan"
+  },
+  {
+    "iso": "BW",
+    "name": "Botswana"
+  },
+  {
+    "iso": "BY",
+    "name": "Belarus"
+  },
+  {
+    "iso": "BZ",
+    "name": "Belize"
+  },
+  {
+    "iso": "CA",
+    "name": "Canada"
+  },
+  {
+    "iso": "CC",
+    "name": "CocosIslands"
+  },
+  {
+    "iso": "CH",
+    "name": "Switzerland"
+  },
+  {
+    "iso": "CL",
+    "name": "Chile"
+  },
+  {
+    "iso": "CM",
+    "name": "Cameroon"
+  },
+  {
+    "iso": "CN",
+    "name": "China"
+  },
+  {
+    "iso": "CO",
+    "name": "Colombia"
+  },
+  {
+    "iso": "CR",
+    "name": "CostaRica"
+  },
+  {
+    "iso": "CU",
+    "name": "Cuba"
+  },
+  {
+    "iso": "CV",
+    "name": "CapeVerde"
+  },
+  {
+    "iso": "CY",
+    "name": "Cyprus"
+  },
+  {
+    "iso": "DE",
+    "name": "Germany"
+  },
+  {
+    "iso": "DJ",
+    "name": "Djibouti"
+  },
+  {
+    "iso": "DK",
+    "name": "Denmark"
+  },
+  {
+    "iso": "DM",
+    "name": "Dominica"
+  },
+  {
+    "iso": "DZ",
+    "name": "Algeria"
+  },
+  {
+    "iso": "EC",
+    "name": "Ecuador"
+  },
+  {
+    "iso": "EE",
+    "name": "Estonia"
+  },
+  {
+    "iso": "EG",
+    "name": "Egypt"
+  },
+  {
+    "iso": "ER",
+    "name": "Eritrea"
+  },
+  {
+    "iso": "ES",
+    "name": "Spain"
+  },
+  {
+    "iso": "ET",
+    "name": "Ethiopia"
+  },
+  {
+    "iso": "FI",
+    "name": "Finland"
+  },
+  {
+    "iso": "FJ",
+    "name": "Fiji"
+  },
+  {
+    "iso": "FM",
+    "name": "Micronesia"
+  },
+  {
+    "iso": "FR",
+    "name": "France"
+  },
+  {
+    "iso": "GA",
+    "name": "Gabon"
+  },
+  {
+    "iso": "GD",
+    "name": "Grenada"
+  },
+  {
+    "iso": "GE",
+    "name": "Georgia"
+  },
+  {
+    "iso": "GG",
+    "name": "Guernsey"
+  },
+  {
+    "iso": "GH",
+    "name": "Ghana"
+  },
+  {
+    "iso": "GI",
+    "name": "Gibraltar"
+  },
+  {
+    "iso": "GL",
+    "name": "Greenland"
+  },
+  {
+    "iso": "GM",
+    "name": "Gambia"
+  },
+  {
+    "iso": "GN",
+    "name": "Guinea"
+  },
+  {
+    "iso": "GP",
+    "name": "Guadeloupe"
+  },
+  {
+    "iso": "GR",
+    "name": "Greece"
+  },
+  {
+    "iso": "GT",
+    "name": "Guatemala"
+  },
+  {
+    "iso": "GU",
+    "name": "Guam"
+  },
+  {
+    "iso": "GW",
+    "name": "Guinea-Bissau"
+  },
+  {
+    "iso": "GY",
+    "name": "Guyana"
+  },
+  {
+    "iso": "HK",
+    "name": "HongKong"
+  },
+  {
+    "iso": "HN",
+    "name": "Honduras"
+  },
+  {
+    "iso": "HR",
+    "name": "Croatia"
+  },
+  {
+    "iso": "HT",
+    "name": "Haiti"
+  },
+  {
+    "iso": "HU",
+    "name": "Hungary"
+  },
+  {
+    "iso": "ID",
+    "name": "Indonesia"
+  },
+  {
+    "iso": "IE",
+    "name": "Ireland"
+  },
+  {
+    "iso": "IL",
+    "name": "Israel"
+  },
+  {
+    "iso": "IM",
+    "name": "IsleofMan"
+  },
+  {
+    "iso": "IN",
+    "name": "India"
+  },
+  {
+    "iso": "IQ",
+    "name": "Iraq"
+  },
+  {
+    "iso": "IR",
+    "name": "Iran"
+  },
+  {
+    "iso": "IS",
+    "name": "Iceland"
+  },
+  {
+    "iso": "IT",
+    "name": "Italy"
+  },
+  {
+    "iso": "JE",
+    "name": "Jersey"
+  },
+  {
+    "iso": "JM",
+    "name": "Jamaica"
+  },
+  {
+    "iso": "JO",
+    "name": "Jordan"
+  },
+  {
+    "iso": "JP",
+    "name": "Japan"
+  },
+  {
+    "iso": "KE",
+    "name": "Kenya"
+  },
+  {
+    "iso": "KG",
+    "name": "Kyrgyzstan"
+  },
+  {
+    "iso": "KH",
+    "name": "Cambodia"
+  },
+  {
+    "iso": "KI",
+    "name": "Kiribati"
+  },
+  {
+    "iso": "KM",
+    "name": "Comoros"
+  },
+  {
+    "iso": "KP",
+    "name": "NorthKorea"
+  },
+  {
+    "iso": "KR",
+    "name": "SouthKorea"
+  },
+  {
+    "iso": "KW",
+    "name": "Kuwait"
+  },
+  {
+    "iso": "KZ",
+    "name": "Kazakhstan"
+  },
+  {
+    "iso": "LA",
+    "name": "Laos"
+  },
+  {
+    "iso": "LB",
+    "name": "Lebanon"
+  },
+  {
+    "iso": "LI",
+    "name": "Liechtenstein"
+  },
+  {
+    "iso": "LK",
+    "name": "SriLanka"
+  },
+  {
+    "iso": "LR",
+    "name": "Liberia"
+  },
+  {
+    "iso": "LS",
+    "name": "Lesotho"
+  },
+  {
+    "iso": "LT",
+    "name": "Lithuania"
+  },
+  {
+    "iso": "LU",
+    "name": "Luxembourg"
+  },
+  {
+    "iso": "LV",
+    "name": "Latvia"
+  },
+  {
+    "iso": "LY",
+    "name": "Libya"
+  },
+  {
+    "iso": "MA",
+    "name": "Morocco"
+  },
+  {
+    "iso": "MC",
+    "name": "Monaco"
+  },
+  {
+    "iso": "MD",
+    "name": "Moldova"
+  },
+  {
+    "iso": "ME",
+    "name": "Montenegro"
+  },
+  {
+    "iso": "MF",
+    "name": "SaintMartin"
+  },
+  {
+    "iso": "MG",
+    "name": "Madagascar"
+  },
+  {
+    "iso": "MK",
+    "name": "Macedonia"
+  },
+  {
+    "iso": "ML",
+    "name": "Mali"
+  },
+  {
+    "iso": "MM",
+    "name": "Myanmar"
+  },
+  {
+    "iso": "MN",
+    "name": "Mongolia"
+  },
+  {
+    "iso": "MO",
+    "name": "Macao"
+  },
+  {
+    "iso": "MQ",
+    "name": "Martinique"
+  },
+  {
+    "iso": "MR",
+    "name": "Mauritania"
+  },
+  {
+    "iso": "MS",
+    "name": "Montserrat"
+  },
+  {
+    "iso": "MT",
+    "name": "Malta"
+  },
+  {
+    "iso": "MU",
+    "name": "Mauritius"
+  },
+  {
+    "iso": "MV",
+    "name": "Maldives"
+  },
+  {
+    "iso": "MW",
+    "name": "Malawi"
+  },
+  {
+    "iso": "MX",
+    "name": "Mexico"
+  },
+  {
+    "iso": "MY",
+    "name": "Malaysia"
+  },
+  {
+    "iso": "MZ",
+    "name": "Mozambique"
+  },
+  {
+    "iso": "NA",
+    "name": "Namibia"
+  },
+  {
+    "iso": "NE",
+    "name": "Niger"
+  },
+  {
+    "iso": "NG",
+    "name": "Nigeria"
+  },
+  {
+    "iso": "NI",
+    "name": "Nicaragua"
+  },
+  {
+    "iso": "NL",
+    "name": "Netherlands"
+  },
+  {
+    "iso": "NO",
+    "name": "Norway"
+  },
+  {
+    "iso": "NP",
+    "name": "Nepal"
+  },
+  {
+    "iso": "NU",
+    "name": "Niue"
+  },
+  {
+    "iso": "OM",
+    "name": "Oman"
+  },
+  {
+    "iso": "PA",
+    "name": "Panama"
+  },
+  {
+    "iso": "PE",
+    "name": "Peru"
+  },
+  {
+    "iso": "PH",
+    "name": "Philippines"
+  },
+  {
+    "iso": "PK",
+    "name": "Pakistan"
+  },
+  {
+    "iso": "PL",
+    "name": "Poland"
+  },
+  {
+    "iso": "PN",
+    "name": "Pitcairn"
+  },
+  {
+    "iso": "PR",
+    "name": "PuertoRico"
+  },
+  {
+    "iso": "PT",
+    "name": "Portugal"
+  },
+  {
+    "iso": "PW",
+    "name": "Palau"
+  },
+  {
+    "iso": "PY",
+    "name": "Paraguay"
+  },
+  {
+    "iso": "QA",
+    "name": "Qatar"
+  },
+  {
+    "iso": "RE",
+    "name": "Reunion"
+  },
+  {
+    "iso": "RO",
+    "name": "Romania"
+  },
+  {
+    "iso": "RS",
+    "name": "Serbia"
+  },
+  {
+    "iso": "RU",
+    "name": "Russia"
+  },
+  {
+    "iso": "RW",
+    "name": "Rwanda"
+  },
+  {
+    "iso": "SA",
+    "name": "SaudiArabia"
+  },
+  {
+    "iso": "SC",
+    "name": "Seychelles"
+  },
+  {
+    "iso": "SD",
+    "name": "Sudan"
+  },
+  {
+    "iso": "SE",
+    "name": "Sweden"
+  },
+  {
+    "iso": "SG",
+    "name": "Singapore"
+  },
+  {
+    "iso": "SH",
+    "name": "SaintHelena"
+  },
+  {
+    "iso": "SI",
+    "name": "Slovenia"
+  },
+  {
+    "iso": "SK",
+    "name": "Slovakia"
+  },
+  {
+    "iso": "SL",
+    "name": "SierraLeone"
+  },
+  {
+    "iso": "SM",
+    "name": "SanMarino"
+  },
+  {
+    "iso": "SN",
+    "name": "Senegal"
+  },
+  {
+    "iso": "SO",
+    "name": "Somalia"
+  },
+  {
+    "iso": "SR",
+    "name": "Suriname"
+  },
+  {
+    "iso": "SS",
+    "name": "SouthSudan"
+  },
+  {
+    "iso": "SV",
+    "name": "ElSalvador"
+  },
+  {
+    "iso": "SY",
+    "name": "Syria"
+  },
+  {
+    "iso": "SZ",
+    "name": "Swaziland"
+  },
+  {
+    "iso": "TD",
+    "name": "Chad"
+  },
+  {
+    "iso": "TG",
+    "name": "Togo"
+  },
+  {
+    "iso": "TH",
+    "name": "Thailand"
+  },
+  {
+    "iso": "TJ",
+    "name": "Tajikistan"
+  },
+  {
+    "iso": "TL",
+    "name": "EastTimor"
+  },
+  {
+    "iso": "TM",
+    "name": "Turkmenistan"
+  },
+  {
+    "iso": "TN",
+    "name": "Tunisia"
+  },
+  {
+    "iso": "TO",
+    "name": "Tonga"
+  },
+  {
+    "iso": "TR",
+    "name": "Turkey"
+  },
+  {
+    "iso": "TV",
+    "name": "Tuvalu"
+  },
+  {
+    "iso": "TW",
+    "name": "Taiwan"
+  },
+  {
+    "iso": "TZ",
+    "name": "Tanzania"
+  },
+  {
+    "iso": "UA",
+    "name": "Ukraine"
+  },
+  {
+    "iso": "UG",
+    "name": "Uganda"
+  },
+  {
+    "iso": "US",
+    "name": "UnitedStates"
+  },
+  {
+    "iso": "UY",
+    "name": "Uruguay"
+  },
+  {
+    "iso": "UZ",
+    "name": "Uzbekistan"
+  },
+  {
+    "iso": "VA",
+    "name": "Vatican"
+  },
+  {
+    "iso": "VE",
+    "name": "Venezuela"
+  },
+  {
+    "iso": "VN",
+    "name": "Vietnam"
+  },
+  {
+    "iso": "VU",
+    "name": "Vanuatu"
+  },
+  {
+    "iso": "WS",
+    "name": "Samoa"
+  },
+  {
+    "iso": "XK",
+    "name": "Kosovo"
+  },
+  {
+    "iso": "YE",
+    "name": "Yemen"
+  },
+  {
+    "iso": "YT",
+    "name": "Mayotte"
+  },
+  {
+    "iso": "ZM",
+    "name": "Zambia"
+  },
+  {
+    "iso": "ZW",
+    "name": "Zimbabwe"
+  }
+]
